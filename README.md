@@ -1,5 +1,5 @@
 # SocialMediaAnalytics
-Sentimental analysis ,word cloud and topic modelling on social media data .
+Sentimental analysis ,word cloud and topic modeling on social media data .
 Tweepy module of Python was used for collecting live tweets that contained the keyword 'Trump'. 
 TextBlob module is used to calculate the polarity and subjectivity of tweets collected and they were plotted on a histogram using Matplotlib library.
 Wordcloud module was also used to create a wordcloud of the collected tweets.
